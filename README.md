@@ -1,4 +1,4 @@
-3### Hi there 👋
+
 ## oi  galera , sou  o Thiago Tavares !!
 <div align="center">
   <a href="https://github.com/tavaresmirako">
