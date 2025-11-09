@@ -6,8 +6,8 @@
 
 Sou desenvolvedor Fullstack júnior com foco em **React / TypeScript / Tailwind CSS** no front-end e **Node.js / Express /Docker / Python TypeScript** no back-end. Trabalho com arquitetura limpa, testes básicos e deploy em plataformas como **Vercel** e **Heroku**.
 
-- 🔭 Atualmente trabalhando na construção do meu portfólio e montando projetos pessoais, como: **ChapettaStore, CodeBeats**
-- 🌱 Estudando e aprimorando tecnologias como: **N8N / IA**
+- 🔭 Atualmente trabalhando na construção dos meus  projetos pessoais, como: **https://vendia.websys.tec.br/**  **https://nexzo.websys.tec.br/**
+- 🌱 Estudando e aprimorando tecnologias como: **N8N / IA / Flutter integrado em Autômação**
 - 💬 Busco aprimorar minhas habilidades todos os dias e me tornar um programador melhor
    - **Aceito sugestões e feedbacks que possam me ajudar a progredir profissionalmente!**
  
