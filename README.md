@@ -192,29 +192,21 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 ---
 
-## 🚀 Projetos em destaque
 
-| Projeto | Descrição | Tech Stack | Status | Demo |
-| --- | --- | --- | --- | --- |
-| **ChapettaStore** | Aplicação de um E-commerce com requisição na API fakeaistore. | React, TypeScript, Tailwind e Shadcn/UI | Em construção | Em breve |
-| **Todo App** | Projetos de tarefas responsivo. Adicione, remova e filtre tarefas. | React, TypeScript, TailwindCSS | Pronto | [Demo](https://todoappchapetta.netlify.app/) |
-| **ChapsWallet** | Aplicação de controle de despesas com Zustand, Zod e Tailwind, permitindo adicionar, converter e excluir gastos em tempo real. | React, TypeScript, Zustand, Tailwind, Shadcn/UI | Pronto | [Demo](https://chaps-wallet.vercel.app/) |
-
-
-### 🖥️ Preview Desktop — ChapettaStore (Em construção - Prévia ate agora)
+### 🖥️ Preview Desktop — TavaresStore (Em construção - Prévia ate agora)
 <img src="https://raw.githubusercontent.com/chapetta/chapetta-store/main/public/images/chapetta-store-prev.gif" alt="Preview Desktop" width="500px" />
 
 ### 🖥️ Preview Desktop — Todo App
 <img src="https://raw.githubusercontent.com/chapetta/todoList-app/main/public/images/web_preview.gif" alt="Preview Desktop" width="500px" />
 
-### 🖥️ Preview Desktop — ChapsWallet
+### 🖥️ Preview Desktop — TavaresWallet
 <img src="https://raw.githubusercontent.com/chapetta/chapetta-wallet/main/public/images/web_preview.gif" alt="Preview Desktop" width="500px" />
 
 ---
 
 ## 📫 Contato
 
-- Email: **cha.petta@hotmail.com**
-- LinkedIn: [Yan Chapetta](https://www.linkedin.com/in/yan-chapetta)
+- Email: **tavaresmirako@gmail.com**
+- LinkedIn: [Thiago tavares](https://www.linkedin.com/in/thiago-tavares-6328936a/)
 
 ---
