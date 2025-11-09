@@ -4,7 +4,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou desenvolvedor Fullstack júnior com foco em **React / TypeScript / Tailwind CSS** no front-end e **Node.js / Express / TypeScript** no back-end. Trabalho com arquitetura limpa, testes básicos e deploy em plataformas como **Vercel** e **Heroku**.
+Sou desenvolvedor Fullstack júnior com foco em **React / TypeScript / Tailwind CSS** no front-end e **Node.js / Express /Docker / Python TypeScript** no back-end. Trabalho com arquitetura limpa, testes básicos e deploy em plataformas como **Vercel** e **Heroku**.
 
 - 🔭 Atualmente trabalhando na construção do meu portfólio e montando projetos pessoais, como: **ChapettaStore, CodeBeats**
 - 🌱 Estudando e aprimorando tecnologias como: **N8N / IA**
@@ -14,19 +14,19 @@ Sou desenvolvedor Fullstack júnior com foco em **React / TypeScript / Tailwind 
  ## 🔗 Conecte comigo
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/yan-chapetta/" target="_blank">
+  <a href="https://www.linkedin.com/in/thiago-tavares-6328936a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/chapetta" target="_blank">
+  <a href="https://instagram.com/thiago_t28" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://wa.me/5521981510300" target="_blank">
+  <a href="https://wa.me/5521992115015" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
 
 
-📫 E-mail: **cha.petta@hotmail.com**
+📫 E-mail: **tavaresmirako@gmail.com**
 
 ## 🖥️ Meu Portfólio
 
