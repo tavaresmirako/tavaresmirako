@@ -1,6 +1,6 @@
 # Olá 👋, eu sou o Thiago
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?size=24&duration=3000&color=000&background=fff&lines=Desenvolvedor+FullStack+Jr.;React+|+TypeScript+|+NodeJs;Open+to+Work+😁)](#)
+[![Typing SVG](https://readme-typing-svg.demolab.com?size=24&duration=3000&color=000&background=fff&lines=Desenvolvedor+FullStack.;N8N+|React+|+TypeScript+|+NodeJs|+Automation;Open+to+Work+😁)](#)
 
 ## 👨‍💻 Sobre mim
 
