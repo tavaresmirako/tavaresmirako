@@ -6,7 +6,7 @@
 
 Sou desenvolvedor Fullstack com foco em **React / TypeScript / Tailwind CSS** no front-end e **Node.js / Express /Docker / Python TypeScript** no back-end. Trabalho com arquitetura limpa, testes básicos e deploy em plataformas como **Vercel** e **Heroku**.
 
-- 🔭 Atualmente trabalhando na construção dos meus  projetos pessoais, como: **https://vendia.websys.tec.br/**  **https://nexzo.websys.tec.br/**
+- 🔭 Atualmente trabalhando na construção dos meus projetos pessoais, como: **https://vendia.websys.tec.br/**, **https://nexzo.websys.tec.br/** e o **Agente de Atendimento/Monitoramento/Dashboard** em **https://nexzoautomacoes.online/**
 - 🌱 Estudando e aprimorando tecnologias como: **N8N / IA / LLMS / RAG / IA Conversacional /integrado em Autômação**
 - 💬 Busco aprimorar minhas habilidades todos os dias e me tornar um programador melhor
    - **Aceito sugestões e feedbacks que possam me ajudar a progredir profissionalmente!**
@@ -201,6 +201,12 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 ### 🖥️ Preview Desktop — TavaresWallet
 <img src="https://raw.githubusercontent.com/chapetta/chapetta-wallet/main/public/images/web_preview.gif" alt="Preview Desktop" width="500px" />
+
+### 🖥️ Preview Desktop — Dashboard de Atendimento
+<img src="https://thsistemas.mirako.org//website/fotosagentes/Dashboardn8n/Captura%20de%20tela%20de%202026-01-12%2018-24-29.png" alt="Preview Dashboard" width="500px" />
+
+### 🖥️ Preview Desktop — Agente de Atendimento n8n
+<img src="https://thsistemas.mirako.org//website/fotosagentes/Dashboardn8n/Captura%20de%20tela%20de%202026-01-12%2018-35-05.png" alt="Preview Agente n8n" width="500px" />
 
 ---
 
